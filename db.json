@@ -19,12 +19,30 @@
     {
       "id": 1,
       "alunoId": "1",
-      "nota": 100
+      "nota": 100,
+      "materia": "Analise de dados"
     },
     {
       "id": 1,
       "alunoId": "2",
-      "nota": 98
+      "nota": 98,
+      "materia": "Ingles instrumental"
+    }
+  ],
+  "admin": [
+    {
+      "id": 110,
+      "nome": "roberto teixeira",
+      "telefone": 3199199999,
+      "materia": "Ingles instrumental",
+      "email": "roberto@teste.com"
+    },
+    {
+      "id": 111,
+      "nome": "Relton Alves",
+      "telefone": 3199199988,
+      "materia": "Analise de dados",
+      "email": "relton@teste.com"
     }
   ]
 }
