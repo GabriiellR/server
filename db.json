@@ -29,20 +29,28 @@
       "materia": "Ingles instrumental"
     }
   ],
-  "admin": [
+  "materia": [
     {
-      "id": 110,
-      "nome": "roberto teixeira",
-      "telefone": 3199199999,
-      "materia": "Ingles instrumental",
-      "email": "roberto@teste.com"
+      "nome": "Analise de dados",
+      "periodo": 9
     },
     {
-      "id": 111,
-      "nome": "Relton Alves",
-      "telefone": 3199199988,
-      "materia": "Analise de dados",
-      "email": "relton@teste.com"
+      "nome": "Ingles instrumental",
+      "periodo": 6
+    }
+  ],
+  "presenca": [
+    {
+      "aluno_id": "1",
+      "presente": true,
+      "data": 1106
+    }
+  ],
+  "turma": [
+    {
+      "nome": "Analise de dados",
+      "sala": 206,
+      "turno": "noite"
     }
   ]
 }
