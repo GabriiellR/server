@@ -5,14 +5,16 @@
       "nome": "Gabriel Dias",
       "telefone": "123",
       "endereco": "Rua x numero y",
-      "email": "fulano@ciclano.com.br"
+      "email": "fulano@ciclano.com.br",
+      "senha": "Teste123"
     },
     {
       "id": 2,
       "nome": "Matheus Costa",
       "telefone": "123",
       "endereco": "Rua x numero y",
-      "email": "fulano@ciclano.com.br"
+      "email": "fulano@ciclano.com.br",
+      "senha": "Teste567"
     }
   ],
   "notas": [
