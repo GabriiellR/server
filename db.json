@@ -28,21 +28,23 @@
             "id": 1,
             "alunoId": 1,
             "nota": 100,
-            "materia": "Analise de dados"
+            "materiaId": 1
         },
         {
             "id": 2,
             "alunoId": 2,
             "nota": 98,
-            "materia": "Ingles instrumental"
+            "materia": 1
         }
     ],
     "materia": [
         {
+            "id": 1,
             "nome": "Analise de dados",
             "periodo": 9
         },
         {
+            "id": 2,
             "nome": "Ingles instrumental",
             "periodo": 6
         }
