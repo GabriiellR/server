@@ -27,14 +27,14 @@
         {
             "id": 1,
             "alunoId": 1,
-            "nota": 100,
+            "notaId": 100,
             "materiaId": 1
         },
         {
             "id": 2,
             "alunoId": 2,
-            "nota": 98,
-            "materia": 1
+            "notaId": 98,
+            "materiaId": 1
         }
     ],
     "materia": [
