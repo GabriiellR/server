@@ -1,4 +1,13 @@
 {
+"administradores": [
+    {
+      "id": 1,
+      "nome": "Relton",
+      "email": "admin@123.com",
+      "senha": "123"
+    },
+  ],
+  
   "alunos": [
     {
       "id": 1,
@@ -6,7 +15,6 @@
       "telefone": "123",
       "endereco": "Rua x numero y",
       "email": "fulano@ciclano.com.br",
-      "senha": "Teste123"
     },
     {
       "id": 2,
@@ -14,7 +22,6 @@
       "telefone": "123",
       "endereco": "Rua x numero y",
       "email": "fulano@ciclano.com.br",
-      "senha": "Teste567"
     }
   ],
   "notas": [
